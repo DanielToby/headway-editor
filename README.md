@@ -7,4 +7,4 @@ New curves are automatically assigned a color. Colors correspond to those shown 
 
 The graph subclasses QCustomPlot. Changes appear in the table in real time. Both the graph and the table manipulate the same model.
 
-<img align="center" src="images/demo.png"/>
+<img align="center" src="images/demo.gif"/>
